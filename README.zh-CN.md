@@ -1,4 +1,4 @@
-<div align="right"><b><a href="#">English Version</a></b></div>
+<div align="right"><b><a href="README.md">English Version</a></b></div>
 
 # No More Bing - 彻底锁定 Edge 搜索引擎
 

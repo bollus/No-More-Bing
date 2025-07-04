@@ -1,4 +1,4 @@
-<div align="right"><b><a href="#">中文说明</a></b></div>
+<div align="right"><b><a href="README.zh-CN.md">中文说明</a></b></div>
 
 # No More Bing - Permanently Lock Your Edge Search Engine
 
