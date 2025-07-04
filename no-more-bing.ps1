@@ -177,7 +177,7 @@ function Show-MainMenu {
     }
 }
 
-if (-not (Test-Administrator)) { Write-Host "`nError: Administrator privileges required. Please right-click the script and select 'Run as administrator'." -ForegroundColor Red; Read-Host; exit }
+if (-not (Test-Administrator)) { Write-Host "`nError: Administrator privileges required. Please run the powershell as administrator'." -ForegroundColor Red; Read-Host; exit }
 if (-not (Test-GroupPolicySupport)) { Write-Host "`nWarning: Group Policy is not supported on this system. The script cannot continue." -ForegroundColor Red; Read-Host; exit }
 
 Show-MainMenu
