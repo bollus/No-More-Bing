@@ -23,7 +23,7 @@
 
 2.  **复制并粘贴以下命令，然后回车：**
     ```powershell
-    irm '[https://raw.githubusercontent.com/bollus/No-More-Bing/main/no-more-bing.ps1](https://raw.githubusercontent.com/bollus/No-More-Bing/main/no-more-bing.ps1)' | iex
+    irm 'https://raw.githubusercontent.com/bollus/No-More-Bing/main/no-more-bing.ps1' | iex
     ```
 
 之后，你就会看到一个清晰的菜单，根据提示操作即可。
